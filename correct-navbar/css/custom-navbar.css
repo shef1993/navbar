@@ -8,8 +8,8 @@
     font-size: x-small;
      }
    .navbar-form .input-group > .form-control {
-                   width: 95%;
-    margin:1px 0px 0px 0px;
+                      width: 71%;
+    margin: 1px 0px 0px 47px;
          }
 
      .input-group-btn:last-child > .btn, .input-group-btn:last-child > .btn-group {
@@ -25,6 +25,7 @@
         color: white;
         padding: 3px;
         text-align:center;
+        font-size:10px;
     }
 
     .navbar-inverse {
@@ -32,7 +33,15 @@
         border-radius: 0px;
         border:none;
     }
-
+    .menubar{
+            margin-top: -21px;
+           height: 0px;
+         background-color: white;
+       }
+    .toggle{
+        float:left;
+        margin: -52px 0px 0px 9px;
+    }
 
 } 
 
@@ -45,8 +54,8 @@
     margin-top: -17px;
      }
    .navbar-form .input-group > .form-control {
-                   width: 95%;
-    margin:1px 0px 0px 0px;
+                   width: 80%;
+    margin:1px 0px 0px 47px;
          }
 
      .input-group-btn:last-child > .btn, .input-group-btn:last-child > .btn-group {
@@ -69,10 +78,17 @@
         border-radius: 0px;
         border:none;
     }
+    .menubar{
+            margin-top: -21px;
+           height: 0px;
+         background-color: white;
+       }
+    .toggle{
+        float:left;
+        margin: -52px 0px 0px 9px;
+    }
 
 }
-
-
 
 @media(min-width : 480px){
     .logo{
@@ -82,8 +98,8 @@
     margin-top: -17px;
      }
    .navbar-form .input-group > .form-control {
-                   width: 95%;
-    margin:1px 0px 0px 0px;
+                   width: 87%;
+    margin:1px 0px 0px 47px;
          }
 
      .input-group-btn:last-child > .btn, .input-group-btn:last-child > .btn-group {
@@ -104,6 +120,15 @@
     .navbar-inverse {
         border-color: #222;
         border-radius: 0px;
+    }
+     .menubar{
+            margin-top: -21px;
+           height: 0px;
+         background-color: white;
+       }
+    .toggle{
+        float:left;
+        margin: -52px 0px 0px 9px;
     }
 
 }
@@ -117,8 +142,8 @@
     margin-top: -35px;
      }
    .navbar-form .input-group > .form-control {
-                   width: 95%;
-    margin: -15px 0px 0px 0px;
+                   width: 86%;
+    margin: -15px 0px 0px 47px;
          }
 
      .input-group-btn:last-child > .btn, .input-group-btn:last-child > .btn-group {
@@ -139,12 +164,21 @@
         border-color: #222;
         border-radius: 0px;
     }
+    .menubar{
+            margin-top: -21px;
+           height: 0px;
+         background-color: white;
+       }
+    .toggle{
+        float:left;
+        margin: -52px 0px 0px 9px;
+    }
 }
 
 
 @media (min-width: 768px) {
         
-     .logo{
+      .logo{
          width: 244px;
          height: 68px;
          margin-top: -19px;
@@ -175,10 +209,18 @@
         border-color: #222;
         border-radius: 0px;
     }
+    .menubar{
+        margin-top: -21px;
+    font-size: 9px;
+    padding: 0px;
+    font-weight: 700;
+    }
         }
 
  @media (min-width: 992px) {
-     .logo{
+     
+     
+   .logo{
              width: 289px;
     height: 90px;
     margin-top: -37px;
@@ -207,6 +249,9 @@
     .navbar-inverse {
         border-color: #222;
         border-radius: 0px;
+    }
+    .menubar{
+        margin-top:-20px;
     }
 }
 
@@ -219,8 +264,8 @@
     padding-bottom: 5px;
      }
   .navbar-form .input-group > .form-control {
-                width: 242%;
-                margin: 15px 0px 0px 0px;
+                width: 139%;
+    margin: 15px 0px 0px 144px;
       }
    .input-group-btn:last-child > .btn, .input-group-btn:last-child > .btn-group {
         z-index: 2;
@@ -240,5 +285,8 @@
     .navbar-inverse {
         border-color: #222;
         border-radius: 0px;
+    }
+    .menubar{
+        margin-top:-20px;
     }
 }
