@@ -43,7 +43,7 @@
         float:left;
         margin: -52px 0px 0px 9px;
     }
-     .navbar-inverse .navbar-nav > li > a {
+    .submenu {
         color: #9d9d9d;
         margin-top: -9px;
         background-color: #222;
@@ -104,7 +104,7 @@
         margin: -52px 0px 0px 9px;
     }
 
-    .navbar-inverse .navbar-nav > li > a {
+    .submenu {
         color: #9d9d9d;
         margin-top: -9px;
         background-color: #222;
@@ -159,7 +159,7 @@
         margin: -52px 0px 0px 9px;
     }
 
-     .navbar-inverse .navbar-nav > li > a {
+     .submenu {
         color: #9d9d9d;
         margin-top: -9px;
         background-color: #222;
@@ -215,7 +215,7 @@
         margin: -52px 0px 0px 9px;
     }
 
-     .navbar-inverse .navbar-nav > li > a {
+     .submenu {
         color: #9d9d9d;
         margin-top: -9px;
         background-color: #222;
@@ -273,7 +273,7 @@
     .toggle{
         float:right;
     }
-     .navbar-inverse .navbar-nav > li > a {
+     .submenu {
         color: #9d9d9d;
         margin-top: 0px;
         background-color: #222;
@@ -330,7 +330,7 @@
     .toggle{
         float:right;
     }
-    .navbar-inverse .navbar-nav > li > a {
+    .submenu {
         color: #9d9d9d;
         margin-top: 0px;
         background-color: #222;
@@ -384,7 +384,7 @@
     .toggle{
         float:right;
     }
-    .navbar-inverse .navbar-nav > li > a {
+    .submenu {
         color: #9d9d9d;
         margin-top: 0px;
         background-color: #222;
