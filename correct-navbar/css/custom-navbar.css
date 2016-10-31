@@ -15,7 +15,7 @@
          }
 
      .input-group-btn:last-child > .btn, .input-group-btn:last-child > .btn-group {
-            z-index: 2;
+    z-index: 2;
     margin-left: -21px;
     margin-top: -21px;
     }
