@@ -16,7 +16,9 @@
         border: 1px solid #ddd;
         border-radius: 5px;
     }
-
+    .subimage{
+       margin-top:22px;
+   }
     h3.heading {
         font-weight: 600;
         margin-top: 6px;
@@ -44,6 +46,7 @@
         margin: 0px;
         font-size: smaller;
     }
+    
 }
 @media (min-width:320px)
  {
@@ -63,7 +66,9 @@
         border: 1px solid #ddd;
         border-radius: 5px;
     }
-
+    .subimage{
+       margin-top:22px;
+   }
     h3.heading {
         font-weight: 600;
         margin-top: 6px;
@@ -110,7 +115,9 @@
         border: 1px solid #ddd;
         border-radius: 5px;
     }
-
+    .subimage{
+       margin-top:22px;
+   }
     h3.heading {
         font-weight: 600;
         margin-top: 6px;
@@ -156,7 +163,9 @@
         border: 1px solid #ddd;
         border-radius: 5px;
     }
-
+    .subimage{
+       margin-top:22px;
+   }
     h3.heading {
         font-weight: 600;
         margin-top: 6px;
@@ -222,7 +231,16 @@
    p.linkpara {
     margin: 0px;
     font-size: .9em;
+    }
+   .container-fluid.subblock {
+    background-color: transparent;
+    margin-left: 321px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
 }
+   .subimage{
+       margin-top:22px;
+   }
 }
 @media (min-width: 992px){
     .navbar-form .input-group > .form-control {
@@ -231,13 +249,6 @@
         margin-top: 1px;
         border-radius: 5px;
     }
-
-   /*.buttonclass{
-   color: #9d9d9d;
-    margin-top: -49px;
-    font-size: 13px;
-   }*/
-
    .masterblock{
     margin-top: 57px;
     background-color: transparent;
@@ -271,11 +282,23 @@
    a.linkclass{
         margin-left:-4px;
    }
+
+   img.subimage{
+       margin-top:22px;
+   }
+
    p.linkpara {
     margin: 0px;
     font-size: .9em;
-}
+   }
 
+   .container-fluid.subblock {
+    background-color: transparent;
+    margin-left: 321px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+     }
+   
  }
 @media (min-width: 1200px){
    .navbar-form .input-group > .form-control{
@@ -284,20 +307,14 @@
     margin-top: 1px;
     border-radius: 5px;
 }
-
-   /*.buttonclass{
-   color: #9d9d9d;
-    margin-top: -49px;
-   }*/
-
-   .masterblock{
+  .masterblock{
     margin-top: 57px;
     background-color: transparent;
     margin-left: 321px;
     border: 1px solid #ddd;
     border-radius: 5px;
     }
-   
+       
    h3.heading {
     font-weight: 600;
     margin-top: 6px;
@@ -319,14 +336,24 @@
    h6.avaname {
     margin: 2px 0px 11px -4px;
     color: #9d9d9d;
-}
+   }
+   .subimage{
+       margin-top:22px;
+   }
+
    a.linkclass{
         margin-left:-4px;
    }
    p.linkpara {
     margin: 0px;
     font-size: .9em;
-}
-
+   }
+   .container-fluid.subblock {
+    background-color: transparent;
+    margin-left: 321px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+   }
+   
  }
  

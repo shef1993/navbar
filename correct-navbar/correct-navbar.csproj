@@ -95,7 +95,13 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="css\grocery-page.css" />
+    <Content Include="images\facebook.png" />
+    <Content Include="images\haldiram-1.jpeg" />
+    <Content Include="images\kurkure-namkeen-1.jpeg" />
+    <Content Include="images\phone.jpg" />
+    <Content Include="images\prestige-4.jpeg" />
     <Content Include="images\pulses-rice-lentils.jpeg" />
+    <Content Include="images\twitter.png" />
     <Content Include="index1.html" />
     <Content Include="packages.config" />
     <Content Include="ApplicationInsights.config">
