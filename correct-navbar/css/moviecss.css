@@ -101,6 +101,9 @@
     .navtabop>li>a{
        padding: 5px 5px;
    }
+    .playbutton{
+        margin-top:-72px;
+    }
    .form-control {
     display: block;
     width: 68%;
@@ -254,6 +257,10 @@
     color: white;
     font-family: "Comic Sans MS", cursive, sans-serif;
    }
+
+   .playbutton {
+    margin-top: -71px;
+}
    h3.moviename{
        font-family:"Comic Sans MS", cursive, sans-serif;
        MARGIN-TOP: -2PX;
@@ -334,6 +341,9 @@
     margin-top: 5px;
     font-size: initial;
     }
+   .playbutton {
+    margin-top: 18px;
+}
    .heading{
     margin-top: 98px;
     margin-bottom: 0px;
@@ -343,6 +353,10 @@
     color: white;
     font-family: "Comic Sans MS", cursive, sans-serif;
    }
+  
+   .playbutton {
+    margin-top: 18px;
+}
    h3.moviename{
        font-family:"Comic Sans MS", cursive, sans-serif;
        MARGIN-TOP: -2PX;
@@ -433,6 +447,9 @@
    .navtabop>li>a{
        padding: 10px 15px;
    }
+   .playbutton {
+    margin-top: 18px;
+}
    h3.moviename{
        font-family:"Comic Sans MS", cursive, sans-serif;
        MARGIN-TOP: -2PX;
@@ -522,6 +539,9 @@
    .navtabop>li>a{
        padding: 10px 15px;
    }
+   .playbutton {
+    margin-top: -41px;
+}
     h3.moviename {
         font-family: "Comic Sans MS", cursive, sans-serif;
         MARGIN-TOP: -2PX;
@@ -613,6 +633,9 @@
    .navtabop>li>a{
        padding: 10px 15px;
    }
+   .playbutton {
+    margin-top: 19px;
+}
    h3.moviename{
        font-family:"Comic Sans MS", cursive, sans-serif;
        MARGIN-TOP: -2PX;
