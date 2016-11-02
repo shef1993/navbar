@@ -98,6 +98,9 @@
         display:block;
         overflow:hidden;
     }
+    .navtabop>li>a{
+       padding: 5px 5px;
+   }
    .form-control {
     display: block;
     width: 68%;
@@ -188,6 +191,9 @@
         display:block;
         overflow:hidden;
     }
+    .navtabop>li>a{
+       padding: 10px 15px;
+   }
    .form-control {
     display: block;
     width: 43%;
@@ -277,6 +283,9 @@
         display:block;
         overflow:hidden;
     }
+   .navtabop>li>a{
+       padding: 10px 15px;
+   }
    .form-control {
     display: block;
     width: 53%;
@@ -421,6 +430,9 @@
     color: white;
     font-family: "Comic Sans MS", cursive, sans-serif;
    }
+   .navtabop>li>a{
+       padding: 10px 15px;
+   }
    h3.moviename{
        font-family:"Comic Sans MS", cursive, sans-serif;
        MARGIN-TOP: -2PX;
@@ -506,6 +518,9 @@
     margin-left: 441px;
     color: white;
     font-family:"Comic Sans MS", cursive, sans-serif;
+   }
+   .navtabop>li>a{
+       padding: 10px 15px;
    }
     h3.moviename {
         font-family: "Comic Sans MS", cursive, sans-serif;
@@ -594,6 +609,9 @@
     margin-left: 186px;
     color: white;
        font-family:"Comic Sans MS", cursive, sans-serif;
+   }
+   .navtabop>li>a{
+       padding: 10px 15px;
    }
    h3.moviename{
        font-family:"Comic Sans MS", cursive, sans-serif;
