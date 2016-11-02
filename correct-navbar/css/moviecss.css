@@ -1,0 +1,617 @@
+﻿@media(min-width : 240px){
+    .bigimage
+    {
+        padding:0px;
+        margin-top:-78px;
+        background:url('http://in.bmscdn.com/webin/experiences/create-experience-banner.jpg');
+        display:block;
+        overflow:hidden;
+    }
+   .form-control {
+    display: block;
+    width: 68%;
+    height: 31px;
+    margin: -31px 0px 25px 49px;
+    border-top-left-radius: 0px;
+    border-bottom-left-radius: 0px;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    font-weight: 200;
+    color: black;
+    font-size: small;
+}  
+   .btn-group > .btn:first-child {
+    margin-left:18px;
+    }
+    .allbutton {
+    margin: 30px 0px 0px 229px;
+    height: 31px;
+    border-top-right-radius:0px;
+    border-bottom-right-radius:0px;
+    font-size:small;
+    }
+    .submenub{
+    margin: 4px 0px 0px 43px;
+    text-align: center;
+    font-size: smaller;
+    color: #ac2925;
+    cursor: pointer;
+    background-color: #c9302c;
+    border-color: #ac2925;
+   }
+    .langsubmenu{
+    margin: 4px 0px 0px 126px;
+    color: #ac2925;
+    cursor: pointer;
+    background-color: #c9302c;
+    border-color: #ac2925;
+    font-size:  x-small;
+
+    }
+   .dropdown-menu > li > a:hover{
+    color: #262626;
+    text-decoration: none;
+    background-color: #ac2925;
+   }
+   .langbutton {
+    text-align: initial;
+    margin-top: 5px;
+    font-size: 8px;
+    margin-right:2px;
+    }
+   .heading{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-size: small;
+    margin-right: 0px;
+    margin-left: 19px;
+    color: white;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+   }
+   h3.moviename{
+       font-family:"Comic Sans MS", cursive, sans-serif;
+       MARGIN-TOP: -2PX;
+       font-size: large;
+   }
+   .detail{
+       font-size:smaller;
+   }
+   h6.about {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: small;
+    margin-top: -24px;
+    MARGIN-BOTTOM: 4PX;
+    }
+   .bookbutton{
+    margin-top: -70px;
+    font-size: x-small;
+   }
+   
+
+}
+
+@media(min-width : 320px) {
+    .bigimage
+    {
+        padding:0px;
+        margin-top:-22px;
+        background:url('http://in.bmscdn.com/webin/experiences/create-experience-banner.jpg');
+        display:block;
+        overflow:hidden;
+    }
+   .form-control {
+    display: block;
+    width: 68%;
+    height: 31px;
+    margin: -31px 0px 25px 90px;
+    border-top-left-radius: 0px;
+    border-bottom-left-radius: 0px;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    font-weight: 200;
+    color: black;
+    font-size: small;
+}  
+   .btn-group > .btn:first-child {
+    margin-left:18px;
+    }
+    .allbutton {
+    margin: 30px 0px 0px 229px;
+    height: 31px;
+    border-top-right-radius:0px;
+    border-bottom-right-radius:0px;
+    font-size:small;
+    }
+    .submenub{
+    margin: 4px 0px 0px -39px;
+    text-align: center;
+    font-size: smaller;
+    color: #ac2925;
+    cursor: pointer;
+    background-color: #c9302c;
+    border-color: #ac2925;
+   }
+    .langsubmenu{
+    margin: 4px 0px 0px 48px;
+    color: #ac2925;
+    cursor: pointer;
+    background-color: #c9302c;
+    border-color: #ac2925;
+    font-size:  x-small;
+
+    }
+   .dropdown-menu > li > a:hover{
+    color: #262626;
+    text-decoration: none;
+    background-color: #ac2925;
+   }
+   .langbutton {
+    text-align: initial;
+    margin-top: 5px;
+    font-size: 8px;
+    margin-right:2px;
+    }
+   .heading{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-size: small;
+    margin-right: 0px;
+    margin-left: 19px;
+    color: white;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+   }
+   h3.moviename{
+       font-family:"Comic Sans MS", cursive, sans-serif;
+       MARGIN-TOP: -2PX;
+       font-size: large;
+   }
+   .detail{
+       font-size:smaller;
+   }
+   h6.about {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: small;
+    margin-top: -24px;
+    MARGIN-BOTTOM: 4PX;
+    }
+   .bookbutton{
+    margin-top: -70px;
+    font-size: x-small;
+   }
+}
+
+@media(min-width : 480px) {
+
+    .bigimage
+    {
+        padding:0px;
+        margin-top:-22px;
+        background:url('http://in.bmscdn.com/webin/experiences/create-experience-banner.jpg');
+        display:block;
+        overflow:hidden;
+    }
+   .form-control {
+    display: block;
+    width: 43%;
+    height: 36px;
+    margin: -37px 0px 25px 194px;
+    border-top-left-radius: 0px;
+    border-bottom-left-radius: 0px;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    font-weight: 200;
+    color: black;
+    font-size: small;
+}  
+   .btn-group > .btn:first-child {
+    margin-left:113px;
+    }
+    .allbutton {
+    margin: 30px 0px 0px 229px;
+    height: 38px;
+    border-top-right-radius:0px;
+    border-bottom-right-radius:0px;
+    font-size:small;
+    }
+    .submenub{
+    margin: 4px 0px 0px 43px;
+    text-align: center;
+    font-size: smaller;
+    color: #ac2925;
+    cursor: pointer;
+    background-color: #c9302c;
+    border-color: #ac2925;
+   }
+    .langsubmenu{
+    margin: 4px 0px 0px 126px;
+    color: #ac2925;
+    cursor: pointer;
+    background-color: #c9302c;
+    border-color: #ac2925;
+    font-size:  x-small;
+
+    }
+   .dropdown-menu > li > a:hover{
+    color: #262626;
+    text-decoration: none;
+    background-color: #ac2925;
+   }
+   .langbutton {
+    text-align: initial;
+    margin-top: 5px;
+    font-size: 8px;
+    margin-right:2px;
+    }
+   .heading{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-size: small;
+    margin-right: 0px;
+    margin-left: 19px;
+    color: white;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+   }
+   h3.moviename{
+       font-family:"Comic Sans MS", cursive, sans-serif;
+       MARGIN-TOP: -2PX;
+       font-size: large;
+   }
+   .detail{
+       font-size:smaller;
+   }
+   h6.about {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: small;
+    margin-top: -24px;
+    MARGIN-BOTTOM: 4PX;
+    }
+   .bookbutton{
+    margin-top: -70px;
+    font-size: x-small;
+   }
+}
+
+@media(min-width:600px){
+           .bigimage
+    {
+        padding:0px;
+        margin-top:-22px;
+        background:url('http://in.bmscdn.com/webin/experiences/create-experience-banner.jpg');
+        display:block;
+        overflow:hidden;
+    }
+   .form-control {
+    display: block;
+    width: 53%;
+    height: 36px;
+    margin: -37px 0px 25px 219px;
+    border-top-left-radius: 0px;
+    border-bottom-left-radius: 0px;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    font-weight: 500;
+    color: black;
+    font-size: small;
+}  
+   .btn-group > .btn:first-child {
+    margin-left: 121px;
+    }
+    .allbutton {
+    margin: 30px 0px 0px 229px;
+    height: 38px;
+    border-top-right-radius:0px;
+    border-bottom-right-radius:0px;
+    font-size:large;
+    }
+    .submenub{
+    margin: 4px 0px 0px 61px;
+    font-size: small;
+    color: #ac2925;
+    cursor: pointer;
+    background-color: #c9302c;
+    border-color: #ac2925;
+   }
+    .langsubmenu{
+    margin: 4px 0px 0px 175px;
+    color: #ac2925;
+    cursor:pointer;
+    background-color: #c9302c;
+    border-color: #ac2925;
+    }
+   .dropdown-menu > li > a:hover{
+    color: #262626;
+    text-decoration: none;
+    background-color: #ac2925;
+   }
+   .langbutton {
+    text-align: right;
+    margin-left: 1189px;
+    margin-top: 5px;
+    font-size: initial;
+    }
+   .heading{
+    margin-top: 98px;
+    margin-bottom: 0px;
+    font-size: medium;
+    margin-right: 273px;
+    margin-left: 240px;
+    color: white;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+   }
+   h3.moviename{
+       font-family:"Comic Sans MS", cursive, sans-serif;
+       MARGIN-TOP: -2PX;
+       font-size: large;
+   }
+   .detail{
+       font-size:smaller;
+   }
+   h6.about {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: small;
+    margin-top: -24px;
+    MARGIN-BOTTOM: 4PX;
+    }
+   .bookbutton{
+       margin-top: 18px;
+    font-size: larger;
+   }
+     
+}
+
+@media (min-width: 768px) {
+ .bigimage
+    {
+        padding:0px;
+        margin-top:-80px;
+        background:url('http://in.bmscdn.com/webin/experiences/create-experience-banner.jpg');
+        display:block;
+        overflow:hidden;
+    }
+   .form-control {
+        display: block;
+    width: 53%;
+    height: 36px;
+    margin: -36px 0px 25px 219px;
+    border-top-left-radius: 0px;
+    border-bottom-left-radius: 0px;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    font-weight: 500;
+    color: black;
+    font-size: large;
+}  
+   .btn-group > .btn:first-child {
+    margin-left: 121px;
+    }
+    .allbutton {
+    margin: 30px 0px 0px 229px;
+    height: 37px;
+    border-top-right-radius:0px;
+    border-bottom-right-radius:0px;
+    font-size:large;
+    }
+    .submenub{
+    margin: 4px 0px 0px 61px;
+    font-size: small;
+    color: #ac2925;
+    cursor: pointer;
+    background-color: #c9302c;
+    border-color: #ac2925;
+   }
+    .langsubmenu{
+    margin: 4px 0px 0px 175px;
+    color: #ac2925;
+    cursor:pointer;
+    background-color: #c9302c;
+    border-color: #ac2925;
+    }
+   .dropdown-menu > li > a:hover{
+    color: #262626;
+    text-decoration: none;
+    background-color: #ac2925;
+   }
+   .langbutton {
+    text-align: right;
+    margin-right:3px;
+    margin-top: 5px;
+    font-size: small;
+    }
+   .heading{
+    margin-top: 98px;
+    margin-bottom: 0px;
+    font-size: x-large;
+    margin-right: 387px;
+    margin-left: 275px;
+    color: white;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+   }
+   h3.moviename{
+       font-family:"Comic Sans MS", cursive, sans-serif;
+       MARGIN-TOP: -2PX;
+       font-size: large;
+   }
+   .detail{
+       font-size:smaller;
+   }
+   h6.about {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: small;
+    margin-top: -24px;
+    MARGIN-BOTTOM: 4PX;
+    }
+   .bookbutton{
+       margin-top: 18px;
+    font-size: larger;
+   }
+
+}
+
+@media (min-width: 992px) {
+     .bigimage
+    {
+        padding:0px;
+        margin-top:-81px;
+        background:url('http://in.bmscdn.com/webin/experiences/create-experience-banner.jpg');
+        display:block;
+        overflow:hidden;
+    }
+   .form-control {
+    display: block;
+    width: 69%;
+    height: 44px;
+    margin:-44px 0px 25px 364px;
+    border-top-left-radius: 0px;
+    border-bottom-left-radius: 0px;
+    font-family:"Comic Sans MS", cursive, sans-serif;
+    font-weight:900;
+    color:black;
+    font-size:large;
+    }  
+   .btn-group > .btn:first-child {
+    margin-left: 266px;
+    }
+    .allbutton {
+    margin: 30px 0px 0px 229px;
+    height: 44px;
+    border-top-right-radius:0px;
+    border-bottom-right-radius:0px;
+    font-size:large;
+    }
+    .submenub{
+    margin: -2px 0px 0px 205px;
+    font-size: large;
+    color: #ac2925;
+    cursor:pointer;
+    background-color: #c9302c;
+    border-color: #ac2925;
+   }
+    .langsubmenu{
+    margin: 4px 0px 0px 265px;
+    color: #ac2925;
+    cursor:pointer;
+    background-color: #c9302c;
+    border-color: #ac2925;
+    }
+   .dropdown-menu > li > a:hover{
+    color: #262626;
+    text-decoration: none;
+    background-color: #ac2925;
+   }
+   .langbutton {
+    text-align: right;
+    margin-right:2px;
+    margin-top: 5px;
+    font-size: initial;
+    }
+   .heading{
+    margin-top: 98px;
+    margin-bottom: 0px;
+    margin-right: 416px;
+    margin-left: 441px;
+    color: white;
+    font-family:"Comic Sans MS", cursive, sans-serif;
+   }
+    h3.moviename {
+        font-family: "Comic Sans MS", cursive, sans-serif;
+        MARGIN-TOP: -2PX;
+        font-size: medium;
+    }
+   h6.about {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: small;
+    margin-top: -21px;
+    MARGIN-BOTTOM: 4PX;
+   }
+   .detail{
+       font-size:smaller;
+       margin-top: 1px;
+   }
+   .bookbutton{
+       margin-top: -41px;
+       font-size:inherit;
+   }
+   
+}
+
+@media (min-width: 1200px) 
+{
+    .bigimage
+    {
+        padding:0px;
+        margin-top:-85px;
+        background:url('http://in.bmscdn.com/webin/experiences/create-experience-banner.jpg');
+        display:block;
+        overflow:hidden;
+    }
+   .form-control {
+    display: block;
+    width: 69%;
+    height: 44px;
+    margin:-44px 0px 25px 364px;
+    border-top-left-radius: 0px;
+    border-bottom-left-radius: 0px;
+    font-family:"Comic Sans MS", cursive, sans-serif;
+    font-weight:900;
+    color:black;
+    font-size:large;
+    }  
+   .btn-group > .btn:first-child {
+    margin-left: 266px;
+    }
+    .allbutton {
+    margin: 30px 0px 0px 229px;
+    height: 44px;
+    border-top-right-radius:0px;
+    border-bottom-right-radius:0px;
+    font-size:large;
+    }
+    .submenub{
+    margin: -2px 0px 0px 205px;
+    font-size: large;
+    color: #ac2925;
+    cursor:pointer;
+    background-color: #c9302c;
+    border-color: #ac2925;
+   }
+    .langsubmenu{
+    margin: 4px 0px 0px 265px;
+    color: #ac2925;
+    cursor:pointer;
+    background-color: #c9302c;
+    border-color: #ac2925;
+    }
+   .dropdown-menu > li > a:hover{
+    color: #262626;
+    text-decoration: none;
+    background-color: #ac2925;
+   }
+   .langbutton {
+    text-align: right;
+    margin-right:2px;
+    margin-top: 5px;
+    font-size: initial;
+    }
+   .heading{
+    margin-top: 98px;
+    margin-bottom: 0px;
+    margin-right: 426px;
+    margin-left: 186px;
+    color: white;
+       font-family:"Comic Sans MS", cursive, sans-serif;
+   }
+   h3.moviename{
+       font-family:"Comic Sans MS", cursive, sans-serif;
+       MARGIN-TOP: -2PX;
+       font-size:large;
+   }
+   h6.about {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    margin-top: -21px;
+    MARGIN-BOTTOM: 4PX;
+   }
+   .detail{
+       font-size:smaller;
+       margin-top: 1px;
+   }
+   .bookbutton{
+       margin-top: 20px;
+       font-size:unset;
+   }
+}

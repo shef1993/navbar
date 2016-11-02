@@ -95,6 +95,8 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="css\grocery-page.css" />
+    <Content Include="css\moviecss.css" />
+    <Content Include="images\ae.jpg" />
     <Content Include="images\facebook.png" />
     <Content Include="images\haldiram-1.jpeg" />
     <Content Include="images\kurkure-namkeen-1.jpeg" />
