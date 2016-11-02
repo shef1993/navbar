@@ -106,7 +106,6 @@
     }
    .form-control {
     display: block;
-    z-index:-1;
     width: 68%;
     height: 31px;
     margin: -31px 0px 25px 90px;
@@ -127,6 +126,12 @@
     border-bottom-right-radius:0px;
     font-size:small;
     }
+    .nav > li > a {
+    position: relative;
+    display: block;
+    z-index: 10000;
+    padding: 10px 15px;
+}
     .submenub{
     margin: 4px 0px 0px -39px;
     text-align: center;
@@ -198,10 +203,15 @@
     .navtabop>li>a{
        padding: 10px 15px;
    }
+    .nav > li > a {
+    position: relative;
+    display: block;
+    z-index: 10000;
+    padding: 10px 15px;
+}
    .form-control {
     display: block;
     width: 43%;
-    z-index:-1;
     height: 36px;
     margin: -37px 0px 25px 194px;
     border-top-left-radius: 0px;
@@ -295,6 +305,12 @@
    .navtabop>li>a{
        padding: 10px 15px;
    }
+   .nav > li > a {
+    position: relative;
+    display: block;
+    z-index: 10000;
+    padding: 10px 15px;
+}
    .form-control {
     display: block;
     width: 53%;
@@ -390,6 +406,12 @@
         display:block;
         overflow:hidden;
     }
+ nav > li > a {
+    position: relative;
+    display: block;
+    z-index: 10000;
+    padding: 10px 15px;
+}
    .form-control {
         display: block;
     width: 53%;
@@ -601,6 +623,12 @@
     border-bottom-right-radius:0px;
     font-size:large;
     }
+    .nav > li > a {
+    position: relative;
+    display: block;
+    z-index: 10000;
+    padding: 10px 15px;
+}
     .submenub{
     margin: -2px 0px 0px 205px;
     font-size: large;
