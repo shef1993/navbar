@@ -72,7 +72,12 @@
     height: 30px;
     margin: -18px 0px 0px 47px;
          }
-
+   .nav > li > a {
+    position: relative;
+    display: block;
+    z-index: 10000;
+    padding: 10px 15px;
+}
      .input-group-btn:last-child > .btn, .input-group-btn:last-child > .btn-group {
     height: 30px;
     margin-top: -18px;

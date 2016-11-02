@@ -98,7 +98,7 @@
         display:block;
         overflow:hidden;
     }
-    .navtabop>li>a{
+    .navtabop>li>a {
        padding: 5px 5px;
    }
     .playbutton{
@@ -126,12 +126,7 @@
     border-bottom-right-radius:0px;
     font-size:small;
     }
-    .nav > li > a {
-    position: relative;
-    display: block;
-    z-index: 10000;
-    padding: 10px 15px;
-}
+    
     .submenub{
     margin: 4px 0px 0px -39px;
     text-align: center;
